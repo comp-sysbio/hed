@@ -1,0 +1,313 @@
+1	aAlcohol Dependence
+2	aDiabetes Mellitus, Noninsulin-Dependent; Niddm
+3	aMaturity-Onset Diabetes Of The Young, Type 1; Mody1
+4	aMaturity-Onset Diabetes Of The Young, Type 2; Mody2
+5	aMaturity-Onset Diabetes Of The Young, Type 3; Mody3
+6	aHypertension, Diastolic, Resistance To
+7	aRenal Failure, Progressive, With Hypertension
+8	aHyperthermia, Cutaneous, With Headaches And Nausea
+9	aInsensitivity To Pain With Hyperplastic Myelinopathy
+10	aMigraine With Or Without Aura, Susceptibility To, 1
+11	aNeuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux
+12	aOsteoarthritis Susceptibility 2; Os2
+13	aCholestasis, Intrahepatic, Of Pregnancy; Icp
+14	aConvulsive Disorder, Familial, With Prenatal Or Early Onset
+15	aEnteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency
+16	aHydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia
+17	aHyperphosphatemia, Polyuria, And Seizures
+18	aIntracranial Hypertension, Idiopathic
+19	aSchizophrenia; Sczd
+20	aRodrigues Blindness
+21	aPyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne
+22	aWolff-Parkinson-White Syndrome
+23	aGrowth Retardation, Small And Puffy Hands And Feet, And Eczema
+24	aAcroosteolysis With Osteoporosis And Changes In Skull And Mandible
+25	aInclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal
+26	aLegg-Calve-Perthes Disease
+27	aOsteoporosis
+28	aPaget Disease Of Bone; Pdb
+29	aAcanthosis Nigricans With Muscle Cramps And Acral Enlargement
+30	aProstatic Hyperplasia, Benign; Bph
+31	aHypertension, Essential
+32	aKaposi Sarcoma
+33	aLeishmaniasis, Tegumentary, Susceptibility To
+34	aNephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn
+35	aPelger-Huet-Like Anomaly And Episodic Fever With Abdominal Pain
+36	aMotor Neuropathy, Peripheral, With Dysautonomia
+37	aPanic Disorder 1; Pand1
+38	aMultiple Sclerosis, Susceptibility To; Ms
+39	aParalysis Agitans, Juvenile, Of Hunt
+40	aPopliteal Pterygium Syndrome; Pps
+41	aMyasthenia Gravis; Mg
+42	aMismatch Repair Cancer Syndrome
+43	aAscites, Chylous
+44	aAsthma, Nasal Polyps, And Aspirin Intolerance
+45	aAsthma, Susceptibility To
+46	aBerry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification
+47	aCardiac Arrhythmia
+48	aHyperhidrosis Palmaris Et Plantaris
+49	aCerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts
+50	aCoronary Artery Disease, Autosomal Dominant, 1; Adcad1
+51	aRaynaud Disease
+52	aAttention Deficit-Hyperactivity Disorder; Adhd
+53	aCardiomyopathy, Dilated, Autosomal Recessive
+54	aBreast Cancer
+55	aMccune-Albright Syndrome; Mas
+56	aAtrial Fibrillation, Familial, 3; Atfb3
+57	aParkinson Disease; Pd
+58	aThrombosis, Susceptibility To
+59	aObsessive-Compulsive Disorder; Ocd
+60	aAntiphospholipid Syndrome, Familial
+61	aArthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac
+62	aOsteoarthritis Susceptibility 1; Os1
+63	aOsteoarthritis Susceptibility 3; Os3
+64	aSensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando
+65	aStroke, Ischemic
+66	aSystemic Lupus Erythematosus; Sle
+67	aInsect Stings, Hypersensitivity To
+68	aAutoimmune Disease
+69	aBlepharophimosis, Ptosis, And Epicanthus Inversus; Bpes
+70	aMitral Valve Prolapse, Familial; Mvp
+71	aHypercholesterolemia, Autosomal Dominant, Type B
+72	aEnterocolitis
+73	aTremor, Nystagmus, And Duodenal Ulcer
+74	aFelty Syndrome
+75	aMiller-Dieker Lissencephaly Syndrome; Mdls
+76	aOnychotrichodysplasia And Neutropenia
+77	aPortal Vein, Cavernous Transformation Of
+78	aAtaxia, Early-Onset, With Oculomotor Apraxia And Hypoalbuminemia;
+79	aInflammatory Bowel Disease 1; Ibd1
+80	aMyopathy, Distal, With Onset In Infancy
+81	aSarcoidosis, Susceptibility To, 1; Ss1
+82	aThrombocytopenic Purpura, Autoimmune; Aitp
+83	aChoreoathetosis/Spasticity, Episodic; Cse
+84	aDystonia 4, Torsion, Autosomal Dominant; Dyt4
+85	aHuntington Disease; Hd
+86	aSpastic Paralysis, Infantile-Onset Ascending; Iahsp
+87	aTorticollis
+88	aTrigeminal Neuralgia
+89	aHypoparathyroidism, Sensorineural Deafness, And Renal Disease
+90	aNephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis
+91	aOtitis Media, Susceptibility To
+92	aChoroideremia With Deafness And Obesity
+93	aObesity
+94	aProlactin Deficiency With Obesity And Enlarged Testes
+95	aDementia/Parkinsonism With Non-Alzheimer Amyloid Plaques
+96	aDermatitis, Atopic
+97	aDermatosis Papulosa Nigra
+98	aExostoses Of Heel
+99	aLichen Sclerosus Et Atrophicus; Lsa
+100	aGlaucoma 1, Open Angle, A; Glc1A
+101	aGastroesophageal Reflux
+102	aPermanent Molars, Secondary Retention Of
+103	aUrinary Bladder, Atony Of
+104	aMycosis Fungoides
+105	aProstate Cancer
+106	aGlaucoma 1, Open Angle, C; Glc1C
+107	aGlaucoma, Primary Open Angle; Poag
+108	aHelicobacter Pylori Infection, Susceptibility To
+109	aHodgkin Lymphoma
+110	aLeukemia, Chronic Lymphocytic, Susceptibility To, 2
+111	aLymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall
+112	aMelanoma, Cutaneous Malignant, Susceptibility To, 2; Cmm2
+113	aMelanoma, Cutaneous Malignant; Cmm
+114	aReticulum Cell Sarcoma
+115	aTesticular Tumors
+116	aMyeloma, Multiple
+117	aPulmonary Hypertension, Primary, 1; Pph1
+118	aCataract And Cardiomyopathy
+119	aCataract, Aberrant Oral Frenula, And Growth Retardation
+120	aInflammatory Bowel Disease 11; Ibd11
+121	aAlpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis
+122	aOsteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy
+123	aAlopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality
+124	aMental And Growth Retardation With Amblyopia
+125	aOphthalmoplegia, Progressive, With Scrotal Tongue And Mental Deficiency
+126	aOssified Ear Cartilages With Mental Deficiency, Muscle Wasting, And
+127	aSpondyloepimetaphyseal Dysplasia, X-Linked, With Mental Deterioration
+128	aDohle Bodies And Leukemia
+129	aLeukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer
+130	aMyelofibrosis
+131	aPolycythemia Vera
+132	aPituitary Adenoma, Prolactin-Secreting
+133	aFlushing Of Ears And Somnolence
+134	aVitamin D-Dependent Rickets, Type 2A; Vddr2A
+135	aVitamin E, Familial Isolated Deficiency Of; Ved
+136	aColorectal Cancer; Crc
+137	aGastric Cancer
+138	aRenal Cell Carcinoma, Nonpapillary; Rcc
+139	aBartter Syndrome, Type 4A
+140	aOptic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal
+141	aRestless Legs Syndrome, Susceptibility To, 1; Rls1
+142	aBladder Cancer
+143	aEsophageal Cancer
+144	aOsteogenic Sarcoma
+145	aGlioma Susceptibility 1; Glm1
+146	aGallbladder Disease 1; Gbd1
+147	aAdenomatous Polyposis Of The Colon; Apc
+148	aFibromatosis, Gingival, With Progressive Deafness
+149	aPolyposis Of Gastric Fundus Without Polyposis Coli
+150	aCandidiasis, Familial, 1; Candf1
+151	aImmunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;
+152	aNeuroblastoma, Susceptibility To
+153	aSmall Cell Cancer Of The Lung
+154	aCamurati-Engelmann Disease
+155	aEncephalopathy With Intracranial Calcification, Growth Hormone Deficiency,
+156	aEncephalopathy, Acute Necrotizing 1, Susceptibility To; Ane1
+157	aEncephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,
+158	aPeripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And
+159	aSpastic Paraplegia, Optic Atrophy, And Dementia
+160	aRenal Tubular Acidosis, Distal, Autosomal Dominant
+161	aRenal Tubular Acidosis, Proximal
+162	aRenal Tubular Acidosis, Proximal, With Ocular Abnormalities And Mental
+163	aLeukemia, Chronic Lymphocytic; Cll
+164	aHyperlipoproteinemia, Type V
+165	aAzoospermia Due To Perturbations Of Meiosis
+166	aAcromegaloid Changes, Cutis Verticis Gyrata, And Corneal Leukoma
+167	aEpilepsy, Myoclonic Juvenile; Ejm
+168	aMyoclonic Epilepsy Of Unverricht And Lundborg
+169	aGilles De La Tourette Syndrome; Gts
+170	aPheochromocytoma
+171	aMitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like
+172	aCandidiasis, Familial, 2; Candf2
+173	aFamilial Mediterranean Fever; Fmf
+174	aChorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic
+175	aPremature Ovarian Failure 1; Pof1
+176	aProstate Cancer, Hereditary, 1; Hpc1
+177	aUterine Anomalies
+178	aPernicious Anemia
+179	aMyositis
+180	aBlepharospasm, Benign Essential
+181	aBranchial Myoclonus With Spastic Paraparesis And Cerebellar Ataxia
+182	aCranial Nerves, Recurrent Paresis Of
+183	aDyskinesia, Familial, With Facial Myokymia
+184	aMigraine, Familial Typical, Susceptibility To, 2
+185	aSpastic Paraparesis And Deafness
+186	aLeukemia, Acute Myeloid; Aml
+187	aRhabdomyosarcoma 2; Rms2
+188	aEndometriosis, Susceptibility To, 1
+189	aSpastic Paraplegia And Evans Syndrome
+190	aContractures, Congenital, Torticollis, And Malignant Hyperthermia
+191	aHypermetabolism Due To Defect In Mitochondria
+192	aMalignant Hyperthermia, Susceptibility To, 1; Mhs1
+193	aMalignant Hyperthermia, Susceptibility To, 3
+194	aDiabetes Insipidus, Neurohypophyseal
+195	aDiabetes Insipidus, Neurohypophyseal Type
+196	aEnuresis, Nocturnal, 1; Enur1
+197	aEnuresis, Nocturnal, 2; Enur2
+198	aFactor Vii And Factor Viii, Combined Deficiency Of
+199	aPolycystic Ovary Syndrome 1; Pcos1
+200	aMacular Edema, Cystoid
+201	aAtaxia, Deafness, And Cardiomyopathy
+202	aCardiomyopathy Associated With Myopathy And Sudden Death
+203	aCardiomyopathy, Congestive, With Hypergonadotropic Hypogonadism
+204	aEndocardial Fibroelastosis
+205	aEndocardial Fibroelastosis; Efe
+206	aMeniere Disease
+207	aAnkylosing Vertebral Hyperostosis With Tylosis
+208	aIchthyosis Follicularis, Atrichia, And Photophobia Syndrome
+209	aAtrial Fibrillation, Familial, 1; Atfb1
+210	aHypophosphatemia, Renal, With Intracerebral Calcifications
+211	aHydatidiform Mole
+212	aMotion Sickness
+213	aAlzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And
+214	aAlzheimer Disease; Ad
+215	aLung Cancer
+216	aThyroid Carcinoma, Follicular; Ftc
+217	aWilms Tumor 1; Wt1
+218	aMigraine With Or Without Aura, Susceptibility To, 3
+219	aMigraine With Or Without Aura, Susceptibility To, 5
+220	aMigraine With Or Without Aura, Susceptibility To, 6
+221	aMigraine Without Aura, Susceptibility To, 4
+222	aBernard-Soulier Syndrome; Bss
+223	aMay-Hegglin Anomaly; Mha
+224	aThrombasthenia Of Glanzmann And Naegeli
+225	aOsteomalacia, Sclerosing, With Cerebral Calcification
+226	aLeiomyomatosis And Renal Cell Cancer, Hereditary
+227	aAlopecia, Androgenetic, 1; Aga1
+228	aWoolly Hair, Hypotrichosis, Everted Lower Lip, And Outstanding Ears
+229	aBulimia Nervosa, Susceptibility To, 1; Buln1
+230	aHypogonadism, Male
+231	aAdie Pupil
+232	aIron-Refractory Iron Deficiency Anemia; Irida
+233	aHypercalcemia, Idiopathic, Of Infancy
+234	aAtaxia With Myoclonic Epilepsy And Presenile Dementia
+235	aEpilepsy, Childhood Absence, Susceptibility To, 1; Eca1
+236	aEpilepsy, Childhood Absence, Susceptibility To, 2; Eca2
+237	aEpilepsy, Idiopathic Generalized, Susceptibility To, 11; Eig11
+238	aEpilepsy, Idiopathic Generalized, Susceptibility To, 7; Eig7
+239	aEpilepsy, Idiopathic Generalized, Susceptibility To, 9; Eig9
+240	aEpilepsy, Juvenile Absence, Susceptibility To, 1; Eja1
+241	aEpilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And
+242	aEpilepsy, X-Linked, With Variable Learning Disabilities And Behavior
+243	aRetinal Degeneration And Epilepsy
+244	aTremor, Hereditary Essential, 1; Etm1
+245	aPancreatitis, Sclerosing Cholangitis, And Sicca Complex
+246	aHypogonadotropic Hypogonadism
+247	aDementia, Lewy Body; Dlb
+248	aThrombocythemia, Essential
+249	aHypereosinophilic Syndrome, Idiopathic; Hes
+250	aMyeloproliferative Disorder, Chronic, With Eosinophilia
+251	aExostoses With Anetodermia And Brachydactyly, Type E
+252	aGitelman Syndrome
+253	aLetterer-Siwe Disease
+254	aD-Bifunctional Protein Deficiency
+255	aD-Glyceric Acidemia
+256	aCarnitine Deficiency, Systemic Primary; Cdsp
+257	aPronation-Supination Of The Forearm, Impairment Of
+258	aLeiomyoma, Uterine; Ul
+259	aPolyps, Multiple And Recurrent Inflammatory Fibroid, Gastrointestinal
+260	aGoiter, Multinodular 1; Mng1
+261	aGraves Disease
+262	aHashimoto Thyroiditis
+263	aMyxedema
+264	aAsperger Syndrome, X-Linked, Susceptibility To, 1
+265	aDyschondrosteosis And Nephritis
+266	aHypomagnesemia 5, Renal, With Ocular Involvement; Homg5
+267	aPreeclampsia/Eclampsia 1; Pee1
+268	aImmune Suppression; Is
+269	aMultiple System Atrophy; Msa
+270	aGaucher Disease, Type I
+271	aApnea, Obstructive Sleep
+272	aDiabetes Mellitus, Insulin-Dependent, 2
+273	aHypercarotenemia And Vitamin A Deficiency, Autosomal Dominant
+274	aHypercarotenemia And Vitamin A Deficiency, Autosomal Recessive
+275	aAcroosteolysis
+276	aArthrogryposis, Renal Dysfunction, And Cholestasis 1; Arcs1
+277	aCrigler-Najjar Syndrome
+278	aDubin-Johnson Syndrome; Djs
+279	aEpilepsy, Benign Neonatal, 1; Ebn1
+280	aEpilepsy, Benign Neonatal, 2; Ebn2
+281	aEpilepsy, Benign Neonatal, 3; Ebn3
+282	aGilbert Syndrome
+283	aHyperbilirubinemia, Rotor Type
+284	aJaundice, Familial Obstructive, Of Infancy
+285	aSchistosoma Mansoni Infection, Susceptibility/Resistance To
+286	aAnemia, Autoimmune Hemolytic
+287	aEpilepsy, Benign Occipital; Boe
+288	aEpilepsy, Photogenic
+289	aEpilepsy, Reading
+290	aHemangiomas, Cavernous, Of Face And Supraumbilical Midline Raphe
+291	aLeprosy, Susceptibility To, 3; Lprs3
+292	aAortic Arch Interruption, Facial Palsy, And Retinal Coloboma
+293	aVaricose Veins
+294	aHepatocellular Carcinoma
+295	aCardioneuromyopathy With Hyaline Masses And Nemaline Rods
+296	aGeographic Tongue And Fissured Tongue
+297	aEpileptic Encephalopathy, Early Infantile, 1
+298	aMyoclonic Epilepsy, Infantile
+299	aFactor V And Factor Viii, Combined Deficiency Of; F5F8D
+300	aFactor Viii And Factor Ix, Combined Deficiency Of; F8F9D
+301	aFactor Viii Deficiency
+302	aFactors Viii, Ix And Xi, Combined Deficiency Of
+303	aHyperpigmentation Of Eyelids
+304	aHyperpigmentation Of Fuldauer And Kuijpers
+305	aKeratosis, Seborrheic
+306	aKeloids
+307	aPityriasis Rubra Pilaris
+308	aCardiomyopathy, Familial Hypertrophic, 2; Cmh2
+309	aHypoascorbemia
+310	aMethemoglobinemia Type Iv
+311	aGamma-Glutamylcysteine Synthetase Deficiency, Hemolytic Anemia Due
+312	aGlutathione Synthetase Deficiency Of Erythrocytes, Hemolytic Anemia
+313	aUridine 5-Prime Monophosphate Hydrolase Deficiency, Hemolytic Anemia

@@ -1,0 +1,2 @@
+The dataset came from the paper "Gottlieb A, Stein G Y, Ruppin E, et al. PREDICT: a method for inferring novel drug indications with application to personalized medicine. Molecular systems biology, 2011, 7(1)."
+and downloaded from "https://www.embopress.org/doi/full/10.1038/msb.2011.26"
